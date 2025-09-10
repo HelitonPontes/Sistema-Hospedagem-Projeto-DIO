@@ -6,4 +6,8 @@
     <RootNamespace>Sistema_Hospedagem_Projeto_DIO</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Model\Model.csproj" />
+  </ItemGroup>
+
 </Project>
